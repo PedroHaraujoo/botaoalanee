@@ -11,13 +11,19 @@ body{
     color: white;
     text-shadow: 1px 2px 2px black;
     background-image: url(bk.jpg);
-    background-size: 50%;
+    background-size: 60%;
+
 }
 header{
     display: flex;
     align-items: center;
     justify-content: center;
     height: 125px;
+    padding-top: 75px;
+}
+.qnmr{
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.735);
 }
 h1{
     font-size: 50px;
